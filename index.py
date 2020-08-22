@@ -3,7 +3,7 @@ import sqlite3
 import tkinter.ttk as ttk
 import tkinter.messagebox as tkMessageBox
 
-#DEVELOPED BY Mark Arvin
+#DEVELOPED BY Zyed
 root = Tk()
 root.title("Contact List")
 width = 700
@@ -299,4 +299,8 @@ tree.bind('<Double-Button-1>', OnSelected)
 if __name__ == '__main__':
     Database()
     root.mainloop()
+
+
+#Developed By Zyed
+
     
